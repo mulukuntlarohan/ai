@@ -1,0 +1,4 @@
+pygame                # For GUI and game simulation
+numpy                 # For any numerical operations (optional)
+tkinter               # For GUI
+sympy                 # For logic-based operations if needed
