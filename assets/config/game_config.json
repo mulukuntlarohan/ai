@@ -1,0 +1,7 @@
+{
+    "grid_size": 5,
+    "num_pits": 2,
+    "wumpus_position": [2, 2],
+    "agent_start_position": [0, 0],
+    "gold_position": [4, 4]
+}
