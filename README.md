@@ -1,5 +1,7 @@
-I have used agent.py for the ai searching using pl reslotuion and kb but the agent is not able to find path
-where as in knowledgebase.py i got the output agent grabbed the gold but i partilly used pl and kb 
-I am not able to run agent.py using pl and kb 
-but knowledge is working properly 
-NOTE: knowledge base and agent are just for name sake but the code inside it is main program dont see the name 
+I have updated the code using pl resolution algorithm and kb
+for implemenation download whole as zip file 
+only run aimainprogram.py
+and for performance use performanceai.py 
+make changes to direcotry(if needed)
+when extracting files to desktop any where. just open that i think you will have two files name like ai ai main just take inside folder ok I mean just copy paste insdie folder when you click that foldeder you should get assest src
+ok if any doubt text
